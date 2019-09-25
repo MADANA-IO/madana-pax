@@ -1,0 +1,11 @@
+{
+    "extends": "solhint:default",
+    "plugins": [],
+    "rules": {
+        "compiler-fixed": false,
+        "max-line-length": false,
+        "max-states-count": false,
+        "not-rely-on-time": false,
+        "function-max-lines": false
+    }
+}

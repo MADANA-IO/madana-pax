@@ -1,0 +1,32 @@
+{
+    "networks": {
+        "develop": {
+            "host":     "localhost",
+            "port":     7545,
+            "chainId":  5777,
+            "gas":      8000000,
+            "gasPrice": 5000000000,
+            "mnemonic": "waste system voyage dentist fine donate purpose truly cactus chest coyote globe"
+        },
+        "coverage": {
+            "host":     "localhost",
+            "port":     8555,
+            "chainId":  "*",
+            "gas":      17592186044415,
+            "gasPrice": 1
+        },
+        "rinkeby": {
+            "chainId": 4,
+            "host":                 "127.0.0.1",
+            "port":                 8545,
+            "gas":                  7500000,
+            "gasPrice":             100000000000
+        },
+        "mainnet": {
+            "host":                 "127.0.0.1",
+            "port":                 8545,
+            "gas":                  7500000,
+            "gasPrice":             51000000000
+        }
+    }
+}

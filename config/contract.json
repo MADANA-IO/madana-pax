@@ -1,0 +1,10 @@
+{
+    "comment NAME": "token name",
+    "NAME": "MADANA PAX",
+    "comment SYMBOL": "token symbol",
+    "SYMBOL": "MDN",
+    "comment DECIMALS": "token decimals",
+    "DECIMALS": 18,
+    "comment INITIAL_BALANCE": "100 million MDN tokens",
+    "INITIAL_BALANCE": "100000000000000000000000000"
+}
