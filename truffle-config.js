@@ -47,6 +47,11 @@ module.exports = {
     }
   },
   networks: {
+    local: {
+      host: "localhost",
+      port: 8545,
+      network_id: "*" // Match any network id
+    },
     develop: {
       host:       cnf.networks.develop.host,
       port:       cnf.networks.develop.port,
