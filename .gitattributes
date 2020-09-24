@@ -1,1 +1,15 @@
 *.sol linguist-language=Solidity
+.solcover.js linguist-vendored
+migrations/contracts/1_initial_migration.js linguist-vendored
+migrations/contracts/2_deploy_token.js linguist-vendored
+test/helpers/tools.js linguist-vendored
+tools/hashChecker.js linguist-vendored
+tools/lib/etherscan.js linguist-vendored
+tools/lib/logger.js linguist-vendored
+tools/server/ganache.js linguist-vendored
+tools/server/index.js linguist-vendored
+tools/server/runner.js linguist-vendored
+
+
+
+

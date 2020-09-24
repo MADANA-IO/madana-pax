@@ -8,3 +8,5 @@ node_modules
 /coverage*
 /db
 /config/.secrets.json
+
+.openzeppelin\.session
